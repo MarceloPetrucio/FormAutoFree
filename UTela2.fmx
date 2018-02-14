@@ -1,0 +1,18 @@
+inherited Tela2: TTela2
+  Caption = 'Padrao1'
+  Fill.Color = claTomato
+  Fill.Kind = Solid
+  DesignerMasterStyle = 0
+  object Label1: TLabel
+    Align = Client
+    StyledSettings = [Family, Style]
+    Size.Width = 317.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 36.000000000000000000
+    TextSettings.FontColor = claCornsilk
+    TextSettings.HorzAlign = Center
+    Text = 'Tela 2'
+    TabOrder = 0
+  end
+end
